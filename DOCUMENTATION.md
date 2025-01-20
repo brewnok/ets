@@ -12,7 +12,7 @@ This documentation outlines the development process, technical considerations, a
 
 ## Architecture Diagram
 
-![ets_architecture](./ETS_ARCH.jpg)
+![ets_architecture](./ETS-ARCH.jpg)
 
 ---
 
