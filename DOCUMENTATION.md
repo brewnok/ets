@@ -1,7 +1,7 @@
 # "aogeji" Ticketing System Development Documentation
 
 ## Introduction
-The Event Ticketing System is designed to streamline event management and enhance user convenience through an intuitive interface for booking tickets and verifying entries. The system consists of two distinct software components:
+The aogeji ticketing system is designed to streamline event management and enhance user convenience through an intuitive interface for booking tickets and verifying entries. The system consists of two distinct software components:
 
 1. **SOFTWARE1 (Booking):** Enables users to book event tickets and generate a QR code after payment.
 2. **SOFTWARE2 (Scanner):** Verifies entry by scanning the QR code and validating it against the database.
