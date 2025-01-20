@@ -10,6 +10,12 @@ This documentation outlines the development process, technical considerations, a
 
 ---
 
+## Architecture Diagram
+
+![ets_architecture](ETS_ARCH.jpg)
+
+---
+
 ## Development Details
 
 ### SOFTWARE1: Booking System
