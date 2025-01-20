@@ -1,4 +1,4 @@
-# Event Ticketing System Development Documentation
+# "aogeji" Ticketing System Development Documentation
 
 ## Introduction
 The Event Ticketing System is designed to streamline event management and enhance user convenience through an intuitive interface for booking tickets and verifying entries. The system consists of two distinct software components:
